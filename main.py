@@ -5,7 +5,7 @@ from rich.panel import Panel
 from rich.markdown import Markdown
 from rich.prompt import Prompt
 
-API_KEY = "AIzaSyCGNst5DFkpOR7X7ydPQbKmwRJIkJBXykU"
+API_KEY = ""
 
 
 console = Console()
